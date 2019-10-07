@@ -1,6 +1,6 @@
 <template>
   <!-- Status Section  -->
-  <div class="status mt-5">
+  <div class="status mt-5 pt-5">
     <div class="container">
       <div class="row">
         <div class="col-md-3">
@@ -66,7 +66,7 @@ export default {};
 <style lang="scss" scoped>
 .status {
   background-image: url("../assets/images/office.jpg");
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: auto;
   height: 40vh;
   width: 100%;

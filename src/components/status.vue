@@ -74,7 +74,7 @@ export default {};
   filter: alpha(opacity=50);
 }
 .total {
-  font-size: 30px;
+  font-size: 35px;
 }
 .current-status {
   font-size: 25px;

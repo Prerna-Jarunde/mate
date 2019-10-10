@@ -97,7 +97,7 @@
         <!-- Image Section  -->
         <div class="col-md-4">
           <div class="photo-image">
-            <img src="../assets/images/images.jpeg" alt="image" />
+            <img src="../assets/images/mark.jpg" alt="image" />
           </div>
         </div>
       </div>

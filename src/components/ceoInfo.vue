@@ -79,7 +79,6 @@ export default {
         slidesPerView: 2,
         spaceBetween: 10,
         freeMode: true,
-
         navigation: {
           nextEl: ".swiper-button-next",
           prevEl: ".swiper-button-prev"
